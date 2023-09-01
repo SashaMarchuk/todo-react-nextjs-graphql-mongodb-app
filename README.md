@@ -1,1 +1,1 @@
-# todo-react-node-graphql-mongodb-app
+# todo-react-nextjs-graphql-mongodb-app
